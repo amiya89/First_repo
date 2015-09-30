@@ -1,2 +1,4 @@
-print("Yo World!!!")
+for i in range(3):
+	
+	print("Yo World!!!")
 
